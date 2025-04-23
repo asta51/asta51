@@ -1,29 +1,34 @@
-# 💫 About Me:
-🔭 I’m currently working on
-- Offensive security skills (XSS, SQLi, recon, automation)
-- Building my pentesting toolkit with Python scripts
-<br>
-👯 I’m looking to collaborate on
-- CTF writeups
-- Bug bounty projects
-- Cybersecurity automation tools
-<br>
-🤝 I’m looking for help with
-- Finding internships
-- Improving my pentesting workflow
-<br>
-🌱 I’m currently learning
-- Web application security (OWASP Top 10)
-- Burp Suite, Nmap, Gobuster, SQLMap
-- Real-world recon and report writing
-<br>
-💬 Ask me about
-- TryHackMe labs
-- CTFs (I’ve played Pentathon, Advent of Cyber, and more)
-- Cyber tools I’m building
-<br>
-⚡ Fun fact
-My college teaches software dev... but I self-learned cybersecurity and now I’m on a mission to be a top-tier pentester 🧠💣
+# 💫 About Me
+
+🔭 **Currently Working On**
+- 🛡️ Offensive security skills (XSS, SQLi, recon, automation)  
+- 🐍 Building my own pentesting toolkit using Python  
+
+👯 **Looking to Collaborate On**
+- 🎯 CTF writeups & challenge-solving  
+- 🕷️ Bug bounty projects  
+- 🔧 Cybersecurity automation tools  
+
+🤝 **Looking for Help With**
+- 🌍 Finding cybersecurity internships (remote / USA / Japan)  
+- 📈 Improving my pentesting workflow and reporting style  
+
+🌱 **Currently Learning**
+- 🕵️ Web Application Security (OWASP Top 10)  
+- 🔍 Tools: Burp Suite, Nmap, Gobuster, SQLMap  
+- 🧾 Writing clean reports & real-world recon methodology  
+
+💬 **Ask Me About**
+- 🚩 TryHackMe labs & progress  
+- 🧠 CTFs (Pentathon, Advent of Cyber, and more)  
+- 🛠️ Tools I’m building or learning to use  
+
+⚡ **Fun Fact**
+Although my college teaches software development, I’ve self-taught myself cybersecurity because  
+I believe hacking systems > building CRUD apps 😎  
+Now I’m on a mission to become a top-tier pentester — one flag at a time 🥷💥  
+
+
 
 
 ## 🌐 Socials:
