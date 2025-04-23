@@ -1,5 +1,29 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on
+- Offensive security skills (XSS, SQLi, recon, automation)
+- Building my pentesting toolkit with Python scripts
+<br>
+👯 I’m looking to collaborate on
+- CTF writeups
+- Bug bounty projects
+- Cybersecurity automation tools
+<br>
+🤝 I’m looking for help with
+- Finding internships
+- Improving my pentesting workflow
+<br>
+🌱 I’m currently learning
+- Web application security (OWASP Top 10)
+- Burp Suite, Nmap, Gobuster, SQLMap
+- Real-world recon and report writing
+<br>
+💬 Ask me about
+- TryHackMe labs
+- CTFs (I’ve played Pentathon, Advent of Cyber, and more)
+- Cyber tools I’m building
+<br>
+⚡ Fun fact
+My college teaches software dev... but I self-learned cybersecurity and now I’m on a mission to be a top-tier pentester 🧠💣
 
 
 ## 🌐 Socials:
